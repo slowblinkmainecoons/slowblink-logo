@@ -1,12 +1,13 @@
 {
   "name": "@slowblink/logo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "AGPL-3.0-only",
   "main": "src/logo.svg",
   "repository": {
     "type": "git",
     "url": "https://github.com/slowblinkmainecoons/slowblink-logo.git"
   },
+  "homepage": "https://slowblinkmainecoons.com/about/brand/logo",
   "publishConfig": {
     "@slowblinkmainecoons:registry": "https://npm.pkg.github.com"
   },
