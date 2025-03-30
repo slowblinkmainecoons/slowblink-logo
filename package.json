@@ -1,0 +1,19 @@
+{
+  "name": "@slowblink/logo",
+  "version": "0.1.0",
+  "license": "AGPL-3.0-only",
+  "main": "src/logo.svg",
+  "files": [
+    "*.svg",
+    "*.json",
+    "*.ts",
+    "*.js",
+    "src",
+    "src/*.ts",
+    "src/*.js",
+    "src/*.json"
+  ],
+  "scripts": {
+    "test": ""
+  }
+}
