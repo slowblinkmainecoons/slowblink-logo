@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "license": "AGPL-3.0-only",
   "main": "src/logo.svg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slowblinkmainecoons/slowblink-logo.git"
+  },
+  "publishConfig": {
+    "@slowblinkmainecoons:registry": "https://npm.pkg.github.com"
+  },
   "files": [
     "*.svg",
     "*.json",
@@ -14,6 +21,6 @@
     "src/*.json"
   ],
   "scripts": {
-    "test": ""
+    "test": "exit 0"
   }
 }
